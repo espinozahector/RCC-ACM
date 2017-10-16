@@ -1,0 +1,5 @@
+mom: upper-upper-middle-upper class
+dad: middle-middle-middle-lower-middle class
+queen elizabeth: upper-upper-middle class
+chair: lower-lower class
+uncle bob: middle-middle-lower-middle class
