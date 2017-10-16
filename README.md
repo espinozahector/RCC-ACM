@@ -1,5 +1,6 @@
-# RCC-ACM :computer:
-
+# RCC-ACM() :computer:
+# Club Meetings Monday and Wedesdays from 1pm - 3pm in MLK Lab
+Preparing for the ACM Competition hosted @ RCC. For old competition problem sets or more info. [SoCalcontest.org](http://socalcontest.org/current/index.shtml)
 Start here for simple to harder problems.
   - Recommend signing up on [codeforces.com](http://codeforces.com/)
   - Attempt to solve these problems. *Answers are in [codeforces file](https://github.com/espinozahector/RCC-ACM/tree/master/CodeForces)* 
