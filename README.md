@@ -1,4 +1,4 @@
-# RCC-ACM() :computer:
+# RCC-ACM :computer:
 # Club Meetings Monday and Wedesdays from 1pm - 3pm in MLK Lab
 Preparing for the ACM Competition hosted @ RCC. For old competition problem sets or more info. [SoCalcontest.org](http://socalcontest.org/current/index.shtml)
 Start here for simple to harder problems.
