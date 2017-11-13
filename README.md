@@ -9,3 +9,8 @@ Preparing for the ACM Competition hosted @ RCC. For old competition problem sets
     3. [Football](http://codeforces.com/problemset/problem/96/A)
     4. [Joysticks](http://codeforces.com/problemset/problem/651/A)
     5. [Johny Likes Numbers](http://codeforces.com/problemset/problem/678/A)
+  - Resources that you should learn
+    1. [Vectors](http://www.geeksforgeeks.org/vector-in-cpp-stl/)
+    2. [Sets](http://thispointer.com/stdset-tutorial-part-1-set-usage-details-with-default-sorting-criteria/)
+    3. [Maps](http://thispointer.com/stdmap-tutorial-part-1-usage-detail-with-examples/)
+    
