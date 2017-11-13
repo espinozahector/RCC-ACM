@@ -8,3 +8,4 @@ Preparing for the ACM Competition hosted @ RCC. For old competition problem sets
   - 2. [Elephant](http://codeforces.com/problemset/problem/617/A)
   - 3. [Football](http://codeforces.com/problemset/problem/96/A)
   - 4. [Joysticks](http://codeforces.com/problemset/problem/651/A)
+  - 5. [Johny Likes Numbers](http://codeforces.com/problemset/problem/678/A)
