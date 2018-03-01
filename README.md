@@ -1,8 +1,8 @@
 # RCC-ACM :computer:
 # Club Meetings Monday and Wedesdays from 1pm - 3pm in MLK Lab
 Preparing for the ACM Competition hosted @ RCC. For old competition problem sets or more info. [SoCalcontest.org](http://socalcontest.org/current/index.shtml)
-* Start here to practice! In order from novice to expert.
-  - Recommend signing up on [codeforces.com](http://codeforces.com/)
+* Start here to practice!
+  - Sign up on [codeforces.com](http://codeforces.com/) to solve ACM like problems. They range from novice to Expert problems. 
   - Attempt to solve these problems. Order is from easiest to hardest! *Answers are in the [codeforces directory](https://github.com/espinozahector/RCC-ACM/tree/master/CodeForces)* 
     1. [Watermelon](http://codeforces.com/problemset/problem/4/A)
     2. [Elephant](http://codeforces.com/problemset/problem/617/A)
