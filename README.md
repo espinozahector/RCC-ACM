@@ -11,7 +11,7 @@ Preparing for the ACM Competition hosted @ RCC. For old competition problem sets
     5. [Johny Likes Numbers](http://codeforces.com/problemset/problem/678/A)
   - Resources that you should learn
     1. [Vectors](http://www.learncpp.com/cpp-tutorial/7-10-stdvector-capacity-and-stack-behavior/)
-    2. [Iterators] (https://www.cprogramming.com/tutorial/stl/iterators.html)
+    2. [Iterators](https://www.cprogramming.com/tutorial/stl/iterators.html)
     3. [Sets](http://thispointer.com/stdset-tutorial-part-1-set-usage-details-with-default-sorting-criteria/)
     4. [Maps](http://thispointer.com/stdmap-tutorial-part-1-usage-detail-with-examples/)
     5. [List](https://www.cprogramming.com/tutorial/stl/stllist.html)
