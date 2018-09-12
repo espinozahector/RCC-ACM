@@ -14,8 +14,9 @@ int main() {
 	// cin>>N;
 	// cin>>C;
 	// cin>>P;
-	int counter=0;
-	int post=1;
+	int counter=0; //counter for the desired post
+	int post=1; // current post
+	
 	for(int i=0;i<C;i++) {
 		int temp = 1;
 		cin>>temp;
