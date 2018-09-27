@@ -1,1 +1,1 @@
-# RCC-ACM
+# POJ Challenges @ http://poj.org/problemlist
