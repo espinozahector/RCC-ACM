@@ -30,9 +30,8 @@ int main(){
     
     for(int i = 0; i < maxH; i++){// start at the top and work down
         for(int j = 0; j < SIZE; j++){// loop through all the characters
-            if(arr[j] == maxH - i){// if the character has a current height equal to the current row height, print a *
+            if(arr[j] >= maxH - i){// if the character has a current height equal to the current row height, print a *
                 std::cout<<"* ";
-                arr[j]--;// reduce the height so we can compare to current row height
             }
             else{
                 std::cout<<"  ";
