@@ -34,7 +34,7 @@
 
 
 int reverseInt(int num){// Takes in an integer and returns the input reversed
-    bool negative = (num > 0)?(true):(false);// lets us know if the input is negative
+    bool negative = (num > 0)?(false):(true);// lets us know if the input is negative
     int output = 0;// Holds output
     
     if(negative){
