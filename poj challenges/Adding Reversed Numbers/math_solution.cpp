@@ -34,24 +34,14 @@
 
 
 int reverseInt(int num){// Takes in an integer and returns the input reversed
-    bool negative = (num > 0)?(false):(true);// lets us know if the input is negative
     int output = 0;// Holds output
-    
-    if(negative){
-        num *= -1;// our reverse algorithm only works for positive numbers, so we need to make our number
-                  // positive to reverse, then make it negative again at the end
-    }
 
     while(num != 0){// our num will reach 0 when we have finished reversing our number
         output *= 10;// Ill explain this loop with an example below
         output += num % 10;
         num /= 10;
     }
-
-    if(negative){
-        output *= -1;// if the input was negative, make the ouput negative
-    }
-
+    
     return output;// return the result of our loop processing 
 }
 
