@@ -1,6 +1,6 @@
 # RCC-ACM :computer:
-# Club Meetings are Tuesdays from 1:30pm - 2:30pm in MLK Building Room 205
-Purpose: Prepare for the annual ACM Competition hosted on November 10 @ RCC. 
+# Club Meetings for Spring 2019 are currently undecided.
+Purpose: Prepare for the annual ACM Competition hosted in November
 * Start here to practice! 
   - Attempt to solve these problems. Order is from easiest to hardest! Answers are in the [Codeforces directory](https://github.com/espinozahector/RCC-ACM/tree/master/CodeForces)
     1. Problem: [Watermelon](http://codeforces.com/problemset/problem/4/A) ::  [Solution](https://github.com/espinozahector/RCC-ACM/tree/master/CodeForces/Watermelon)
